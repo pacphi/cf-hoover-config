@@ -1,6 +1,6 @@
 cf:
   butlers:
-    isle: cf-butler.apps.isle-973675.cf-app.com
+    dhaka: cf-butler.apps.dhaka.cf-app.com
   sslValidationSkipped: true
 
 management:
