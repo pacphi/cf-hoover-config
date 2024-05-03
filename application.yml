@@ -1,6 +1,7 @@
 cf:
   butlers:
     dhaka: cf-butler.apps.dhaka.cf-app.com
+    wane: cf-butler.apps.wane-1284655.cf-app.com
   sslValidationSkipped: true
 
 management:
