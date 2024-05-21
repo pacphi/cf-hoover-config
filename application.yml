@@ -1,8 +1,8 @@
 cf:
   butlers:
-    dhaka: cf-butler.apps.dhaka.cf-app.com
     bead: cf-butler.apps.bead-1547942.cf-app.com
-    local: http://localhost:8080
+    #dhaka: cf-butler.apps.dhaka.cf-app.com
+    #local: http://localhost:8080
   sslValidationSkipped: true
 
 management:
