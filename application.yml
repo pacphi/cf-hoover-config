@@ -1,6 +1,6 @@
 cf:
   butlers:
-    bead: cf-butler.apps.bead-1547942.cf-app.com
+    bark: cf-butler.apps.bark-1833524.cf-app.com
     #dhaka: cf-butler.apps.dhaka.cf-app.com
     #local: http://localhost:8080
   sslValidationSkipped: true
