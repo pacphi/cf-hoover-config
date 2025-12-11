@@ -1,7 +1,8 @@
 cf:
   butlers:
     #bark: cf-butler.apps.bark-1833524.cf-app.com
-    dhaka: cf-butler-noisy-emu-yb.apps.dhaka.cf-app.com
+    #dhaka: cf-butler-noisy-emu-yb.apps.dhaka.cf-app.com
+    kuhn-labs: cf-butler.apps.tas-ndc.kuhn-labs.com
     #local: http://localhost:8080
   sslValidationSkipped: true
 
